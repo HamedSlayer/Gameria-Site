@@ -1,0 +1,36 @@
+@font-face {
+    font-family: B Titr;
+    src: url(fonts/B\ Titr\ Bold_YasDL.com.ttf);
+}
+header{
+    font-size: 20px;
+    text-align: center;
+    font-family: B Titr;
+    color: aliceblue;
+}
+body{
+    margin: 0px;
+    direction: rtl;
+    background-image: url(pics/spider-man-action-adventure-1080p-gaming-6psueyj01802y9f1.webp);
+    background-size: 100%;
+}
+form{
+
+    text-align: center;
+}
+div#gender{
+    display: inline-block;
+    color: floralwhite;
+    font-family: B Titr;
+}
+div#gender2{
+    font-family: B Titr;
+    color: floralwhite ;
+    display: inline-block;
+}
+select{
+    font-family: B Titr;
+}
+#submit-key{
+    font-family: B Titr;
+}
