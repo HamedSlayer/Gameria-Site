@@ -5,7 +5,7 @@
 body{
     direction: rtl;
     margin: 0px;
-    background-image: url(pics/spider-man-in-shadow-1080p-gaming-vpy8edcu5m4y4v3a.webp);
+    background-image: url(/pics/spider-man-in-shadow-1080p-gaming-vpy8edcu5m4y4v3a.webp);
     background-size: 100%;
 }
 
@@ -17,7 +17,9 @@ header#head1{
 }
 nav#mainmenu ul{
     background-color: rgba(48, 2, 2,0.2);
+
     text-align: center;
+
     
 }
 nav#mainmenu li{

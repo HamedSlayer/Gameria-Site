@@ -1,0 +1,9 @@
+body{
+    background-image: url(/pics/Dota2-2.jpg);
+    background-size: 100%;
+}
+header{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}

@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(/pics/desktop-wallpaper-red-and-black-abstract-background-red-gaming.jpg);
+    background-size: 100%;
+}
+img{
+    width: 108%;
+}
+a :hover{
+    width: 115%;
+    
+    
+}
+#img-1{
+    margin-top: 5%;
+    margin-right: 2.5%;
+}
+#img-2{
+    margin-top: 5%;
+
+}
+#img-3{
+    margin-top: 5%;
+    margin-right: 2.5%;
+}
+#img-4{
+    margin-top: 5%;
+}
